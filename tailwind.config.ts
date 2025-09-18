@@ -66,12 +66,12 @@ export default {
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
 				},
-				'bright-orange': '#FF6B35',
-				'turquoise': '#4ECDC4',
-				'mint-green': '#96CEB4',
-				'sunny-yellow': '#DDA0DD',
-				'robot-blue': '#45B7D1',
-				'playful-purple': '#BD81FF'
+				'robotek-purple': '#8A2BE2',
+				'robotek-yellow': '#FFD700',
+				'robotek-red': '#FF4444',
+				'robotek-light-purple': '#B347D9',
+				'robotek-dark-purple': '#6B1F8A',
+				'lego-blue': '#0A4CB8'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
